@@ -6,7 +6,7 @@ c)	Your program should then pick a word from the “words and their meanings” 
 d)	The user may type in the unscrambled word or may ask for the definition/meaning of the word by entering a question mark. The game continues until the user says “no” to the question: “Do you want to continue?”. 
 
 
-#Second Task
+# Second Task
 The file restaurant_reviews.txt is given to you. 
  
 The file contains names of reviewers and their reviews of different restaurants in the comma separated format. The first string is the name of the reviewer followed by a name of a restaurant and its rating. You are required to write a Python program that computes a similarity score between any two reviewers using Euclidean distances
