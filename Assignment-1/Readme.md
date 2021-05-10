@@ -10,7 +10,7 @@ d.	the median of the numbers. Note that if there was 2 numbers that qualify for 
 
 
 # Third task
-prime number & Composite Numbers
+Write a python program that requests a positive integer from the user, determines if it is a prime, composite or neither prime or composite and prints the message
 
 # Fourth Task
-Write a program that takes as input two opposite corners of a rectangle: (x1,y1) and (x2,y2) – float or integer only
+Write a program that takes as input two opposite corners of a rectangle: (x1,y1) and (x2,y2) – float or integer only. Finally, the user is prompted for the coordinates of a third point (x,y). The program should print Boolean value True or False based on whether the point (x,y) lies within the rectangle. At the end of each run, the users should be prompted to ask whether they want to continue
