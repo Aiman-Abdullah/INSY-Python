@@ -1,5 +1,6 @@
+# Objective:
 # Scraping Data From CNN Website
-# USing Beatufilsoup lib
+# Using Beatufilsoup lib
 
 The CNN Money’s Market Movers website (https://money.cnn.com/data/hotstocks/ ) tracks the most active stocks on a real time basis.  Specifically, the most active, the top gainers and top losers are listed at any instance in time. You will first write Python scripts that collect the list of most actives, gainers and losers from the above website. Next, your programs should take the ticker symbols and names of these companies (and categories) and build a csv file (called stocks.csv) with data about each stock from the website: 
 https://finance.yahoo.com/quote/AMD? , which gives the quote for ticker symbol AMD as an example. 
@@ -10,3 +11,11 @@ OPEN price
 PREV CLOSE price 
 VOLUME 
 MARKET CAP 
+
+
+# Libraries:
+from bs4 import BeautifulSoup as soup
+from urllib.request import urlopen as uReq
+import csv
+Use Dictionary
+Use List
