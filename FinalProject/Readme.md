@@ -14,8 +14,8 @@ MARKET CAP
 
 
 # Libraries:
-from bs4 import BeautifulSoup as soup
-from urllib.request import urlopen as uReq
-import csv
-Use Dictionary
-Use List
+from bs4 import BeautifulSoup as soup <br /> 
+from urllib.request import urlopen as uReq <br />
+import csv <br />
+Use Dictionary <br />
+Use List <br />
