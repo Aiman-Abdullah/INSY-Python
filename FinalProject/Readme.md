@@ -17,5 +17,6 @@ MARKET CAP
 from bs4 import BeautifulSoup as soup <br /> 
 from urllib.request import urlopen as uReq <br />
 import csv <br />
+# Use Data Structure:
 Use Dictionary <br />
 Use List <br />
